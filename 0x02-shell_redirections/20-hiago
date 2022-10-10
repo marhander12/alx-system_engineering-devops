@@ -1,0 +1,2 @@
+#!/bin/bash
+itr -d 'c' | tr -d 'C'
