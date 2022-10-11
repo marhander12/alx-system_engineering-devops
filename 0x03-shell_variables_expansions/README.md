@@ -4,4 +4,5 @@ Tasks-2 The path to success is to take massive, determined action
 Tasks-3 Create a script that counts the number of directories in the PATH.
 Tasks-4 Create a script that lists environment variables.
 Tasks-5 Create a script that lists all local variables and environment variable and functio
-tasks-6 Create a script that creates a new local variable.
+tasks-6 Create a script that creates a new local variable
+Tasks-7 Create a script that creates a new global variable.
