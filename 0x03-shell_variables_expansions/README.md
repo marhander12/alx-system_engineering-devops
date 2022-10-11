@@ -9,4 +9,5 @@ Tasks-7 Create a script that creates a new global variable
 Tasks-8 Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 Tasks-9 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
 Tasks-10 Write a script that displays the result of BREATH to the power LOVE
-Tasks-11 Write a script that converts a number from base 2 to base 10.
+Tasks-11 Write a script that converts a number from base 2 to base 10
+Tasks 12.Create a script that prints all possible combinations of two letters, except oo.
