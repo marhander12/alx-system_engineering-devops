@@ -5,4 +5,5 @@ Tasks-3 Create a script that counts the number of directories in the PATH.
 Tasks-4 Create a script that lists environment variables.
 Tasks-5 Create a script that lists all local variables and environment variable and functio
 tasks-6 Create a script that creates a new local variable
-Tasks-7 Create a script that creates a new global variable.
+Tasks-7 Create a script that creates a new global variable
+Tasks-8 Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
